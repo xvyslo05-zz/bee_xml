@@ -1,0 +1,68 @@
+<products timestamp="2013-08-20 17:07:20">
+<product>
+<product_id>917428</product_id>
+<product_name>
+<![CDATA[ Barbie Beach Teresa ]]>
+</product_name>
+<priceMin>9.07</priceMin>
+<deliveryDate>5</deliveryDate>
+<savePercentage>0</savePercentage>
+<url>
+<![CDATA[
+http://babiky-a-barbie.test-obchod.sk/barbie-beach-teresa/
+]]>
+</url>
+<brand>
+<![CDATA[ Mattel ]]>
+</brand>
+<image_url>
+<![CDATA[
+http://im9.cz/sk/iR/importprodukt-orig/96f/96f3ef4557fd0e4d3107475d0b8add6f--mmf150x150.jpg
+]]>
+</image_url>
+</product>
+<product>
+<product_id>1122054</product_id>
+<product_name>
+<![CDATA[ BARBIE Baletka ]]>
+</product_name>
+<priceMin>20.00</priceMin>
+<deliveryDate>9</deliveryDate>
+<savePercentage>0</savePercentage>
+<url>
+<![CDATA[
+http://babiky-a-barbie.test-obchod.sk/barbie-baletka/
+]]>
+</url>
+<brand>
+<![CDATA[ Mattel ]]>
+</brand>
+<image_url>
+<![CDATA[
+http://im9.cz/sk/iR/importprodukt-orig/8d1/8d171e578ef0915b69ea7cbe4bcb6919--mmf150x150.jpg
+]]>
+</image_url>
+</product>
+<product>
+<product_id>1553793</product_id>
+<product_name>
+<![CDATA[ Barbie Ken princ ]]>
+</product_name>
+<priceMin>14.98</priceMin>
+<deliveryDate>0</deliveryDate>
+<savePercentage>17</savePercentage>
+<url>
+<![CDATA[
+http://babiky-a-barbie.test-obchod.sk/barbie-ken-princ/
+]]>
+</url>
+<brand>
+<![CDATA[ Mattel ]]>
+</brand>
+<image_url>
+<![CDATA[
+http://im9.cz/sk/iR/importprodukt-orig/e16/e16467f7d961d9319995fd8e62958bcc--mmf150x150.jpg
+]]>
+</image_url>
+</product>
+</products>
